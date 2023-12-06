@@ -1,0 +1,1 @@
+(shop_methodm_quell_riot_precondition strong rochester)(call ebs)(call police_chief)(shop_methodm_get_to_already_there_precondition pu2 strong)(shop_methodm_get_to_already_there_precondition pu1 strong)(set_up_barricades pu2)(set_up_barricades pu1)

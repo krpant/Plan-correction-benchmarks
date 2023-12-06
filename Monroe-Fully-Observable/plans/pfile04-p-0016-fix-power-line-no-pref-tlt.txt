@@ -1,0 +1,1 @@
+(shop_methodm_get_electricity_noop_precondition rochester_general)(shop_methodm_get_to_already_there_precondition sleader2 rochester_general)(shop_methodm_get_to_already_there_precondition food3 rochester_general)
